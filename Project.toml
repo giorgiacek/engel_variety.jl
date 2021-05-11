@@ -1,0 +1,7 @@
+name = "engel_variety"
+uuid = "e4d80982-0832-4982-adbf-be27f4986caa"
+authors = ["Giorgia Cecchinato <giorgivola@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+DocumenterTools = "35a29f4d-8980-5a13-9543-d66fff28ecb8"
